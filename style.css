@@ -1,0 +1,15 @@
+/*Author: Gaddis & Mahadeshwar*/
+
+h1, h2, .display
+{
+    text-align:center;
+}
+canvas
+{
+    border:solid 1px black;
+    background-color:white;
+}
+
+body{
+	background-color: #ffffcc;
+}
